@@ -30,3 +30,11 @@ Features:
 Run Locally: 
     - bash: ./mvnw spring-boot:run
 
+Why This Project:
+- This project focuses on backend correctness:
+    - secure authentication
+    - strict authorization
+    - clean domain modeling
+    - real integration tests
+
+It is intentionally backend-first to demonstrate system design and API reliability.
